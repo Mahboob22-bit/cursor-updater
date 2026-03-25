@@ -1,0 +1,9 @@
+[package]
+name = "cursor-updater"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ar = "0.9"
+tar = "0.4"
+xz2 = "0.1"
